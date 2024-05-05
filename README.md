@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathin Manitha</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless Worlds of Technology</h3>
 
 ---
 
