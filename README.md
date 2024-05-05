@@ -5,11 +5,13 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> <br>
 
-- 🌱 I’m currently learning **React**
+- :school: I am a `Senior` at Faculty of Information Technology at ICBT Campus.
+
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://sathinmanitha.github.io/sathin.github.io/](https://sathinmanitha.github.io/sathin.github.io/)
 
-- 💬 Ask me about **Web Development**
+- :nerd_face: Always **Learning New Things**.
 
 - 📫 How to reach me **sathinmanitha1909@gmail.com**
 
