@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sathin Manitha</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless Worlds of Technology</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless Worlds of Technology</h3> <br>
 
----
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> <br>
 
 - 🌱 I’m currently learning **React**
 
@@ -12,9 +14,9 @@
 - 📫 How to reach me **sathinmanitha1909@gmail.com**
 
 - ⚡ Fun fact **Call me S_manitha**
+<br> <br> <br>
 
 ---
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/sathin_manitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sathin_manitha" height="30" width="40" /></a>
