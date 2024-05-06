@@ -1,7 +1,3 @@
-<p align="center">
-  <picture> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-</p>
-
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sathin Manitha</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless Worlds of Technology</h3> <br>
