@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sathinmanitha1909@gmail.com**
 
-- ⚡ Fun fact **Call me S_manitha**
+- ⚡ Fun fact **Call me Manitha**
 <br> <br> <br>
 
 ---
