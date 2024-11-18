@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👨‍💻 All of my projects are available at https://sathinmanitha.github.io/sathin/
+- 👨‍💻 All of my projects are available at https://sathinmanitha.me
 
 - :nerd_face: Always **Learning New Things**.
 
