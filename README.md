@@ -6,9 +6,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> <br>
 
-- :school: I am a `Senior` at Faculty of Information Technology at ICBT Campus.
+- :school: I am a `Senior` at Faculty of Information Technology at SLIIT City Uni.
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Information Technology**
 
 - 👨‍💻 All of my projects are available at https://sathinmanitha.me
 
