@@ -6,7 +6,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> <br>
 
-- :school: I am a `Senior` at Faculty of Information Technology at SLIIT City Uni.
+- :school: I am a `Senior` at Faculty of Computing at SLIIT City Uni.
 
 - 🌱 I’m currently learning **Information Technology**
 
