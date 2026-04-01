@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Information Technology**
 
-- 👨‍💻 All of my projects are available at https://sathinmanitha.me
+- 👨‍💻 All of my projects are available at https://sathinmanitha.github.io/sathinmanitha.me/
 
 - :nerd_face: Always **Learning New Things**.
 
